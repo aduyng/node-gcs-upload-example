@@ -1,0 +1,22 @@
+{
+  "name": "@aduyng/node-gcs-upload-example",
+  "version": "1.0.0",
+  "description": "An example of uploading files to a google cloud storage bucket",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aduyng/node-gcs-upload-example.git"
+  },
+  "author": "Duy Nguyen <aduyng@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aduyng/node-gcs-upload-example/issues"
+  },
+  "homepage": "https://github.com/aduyng/node-gcs-upload-example#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "@google-cloud/storage": "^5.14.8"
+  }
+}
